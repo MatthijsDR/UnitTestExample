@@ -1,0 +1,6 @@
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\bin\Debug\UnitTesting.WorkUnit.Final.dll
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\bin\Debug\UnitTesting.WorkUnit.Final.pdb
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\obj\Debug\UnitTesting.WorkUnit.Final.csprojAssemblyReference.cache
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\obj\Debug\UnitTesting.WorkUnit.Final.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\obj\Debug\UnitTesting.WorkUnit.Final.dll
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTesting.WorkUnit.Final\obj\Debug\UnitTesting.WorkUnit.Final.pdb

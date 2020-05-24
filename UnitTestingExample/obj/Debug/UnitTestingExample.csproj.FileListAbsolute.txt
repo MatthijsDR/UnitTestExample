@@ -1,0 +1,9 @@
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\bin\Debug\UnitTestingExample.dll
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\bin\Debug\UnitTestingExample.pdb
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\obj\Debug\UnitTestingExample.csprojAssemblyReference.cache
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\obj\Debug\UnitTestingExample.csproj.CoreCompileInputs.cache
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\obj\Debug\UnitTestingExample.csproj.CopyComplete
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\obj\Debug\UnitTestingExample.dll
+C:\Users\Matthijs\Documents\HBO5Programmeren\Jaar1Sem2\Progr4\UnitTest\UnitTestingExample\obj\Debug\UnitTestingExample.pdb
